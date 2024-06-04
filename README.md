@@ -1,2 +1,7 @@
 # Jarvis_project
-This software is a synchronous process that uses and analyses human- dependent artificial language as the basis for speech recognition and processing.
+It recognizes your voice and produces output by understanding whatever you speak  using different modules. Artificial Intelligence is an approach to make a computer, a robot, or a product to think how smart human think. AI is a study of how human brain think, learn, decide and work, when it tries to solve problems. And finally this study outputs intelligent software systems.The aim of AI is to improve computer functions which are related to human knowledge, for example, reasoning, learning, and problem-solving.  
+The world uses AI technology for make work easy. The best examples of the AI  you can do anything with only few simple speech. The applications of this sub-domain of computer vision are vast and businesses around the world are already reaping the benefits. The objectives of AI research are reasoning, knowledge representation, planning, learning, natural language processing, realization, and ability to move and manipulate objects. There are long-term goals in the general intelligence sector.    
+
+Approaches include statistical methods, computational intelligence, and traditional coding AI. During the AI research related to search and mathematical optimization, artificial neural networks and methods based on statistics, probability, and economics, we use many tools. Computer science attracts AI in the field of science, mathematics, psychology, linguistics, philosophy and so on.
+
+
